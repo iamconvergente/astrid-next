@@ -1,0 +1,12 @@
+@import '../tailwind.css';
+
+
+@layer utilities {
+    .text-wrap-balance {
+        text-wrap: balance;
+    }
+
+    .text-wrap-pretty {
+        text-wrap: pretty;
+    }
+}
